@@ -46,7 +46,3 @@
 
 **Working application link:**
 https://expense-tracker-client-ochre.vercel.app/
-
-**License:**
-
-This project is licensed under the MIT License - see the package.json file for details.
